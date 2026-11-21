@@ -1,0 +1,11 @@
+Name: Samruddhi Kalbande
+PRN: 24070521278
+
+Computer Networks Lab
+
+This personalized copy preserves the original 10 experiments, source programs,
+command outputs, README files, and network-analysis screenshots. The UDP
+sample messages have been personalized to the student name above. Screenshots
+are retained as evidence from the original lab environment; the command-output
+screenshots that contained the original student's local username/host label have
+been updated to Samruddhi's local label where applicable.
